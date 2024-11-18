@@ -1,5 +1,5 @@
 
-I am learning Blockchain development and cybersecurity
+I am a Full stack Blockchain development and cybersecurity Learner
 
 
 ## 🌐 Socials:

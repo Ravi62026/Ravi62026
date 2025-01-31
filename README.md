@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi62026" alt="ravi62026" /></a> </p>
 
-- 🔭 I’m currently working on [ChainVerdict](https://chain-verdict.vercel.app/)
+- 🔭 I’m currently working on [ChainVerdict](https://chainverdict.in/)
 
 - 🌱 I’m currently learning **Rust, Golang, Next js, TypeScript**
 
-- 💬 Ask me about **Solidity, React, Java Script, Express, Database, Python, ML, Generative AI, MLOPs, LLMOPs**
+- 💬 Ask me about **Solidity, React, Java Script, Rust, Express, Database, Python, ML, Generative AI, MLOPs, LLMOPs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

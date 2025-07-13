@@ -1,69 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ravi Shankar</h1>
-<h3 align="center">🚀 Tech Entrepreneur | 🛠️ Full-Stack (web2 + web3) Developer | 🤖 AI & LegalTech Enthusiast</h3>
+<h3 align="center">🚀 Building AI, LegalTech & Civic Solutions | Founder @ Inflynx</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravi62026&label=Profile%20views&color=0e75b6&style=flat" alt="ravi62026" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravi62026&theme=flat&title=MultiLanguage,Commit,Stars,Followers" alt="ravi62026" />
-  </a>
+  <a href="https://github.com/ravi6202"><img src="https://komarev.com/ghpvc/?username=ravi6202&label=Profile%20views&color=0e75b6&style=flat" alt="ravi6202" /></a>
+  <a href="https://linkedin.com/in/ravi-shankar-3bab62247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" alt="LinkedIn"/></a>
+  <a href="mailto:rs1806105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔥 About Me
+### 🧠 About Me
 
-- 🚀 Building [**ChainVerdict**](https://chainverdict.in/) — A LegalTech platform revolutionizing justice
-- 🧠 Currently diving into **Rust**, **Golang**, **Next.js**, **TypeScript**
-- 💬 Ask me about **Solidity**, **React**, **Rust**, **JavaScript**, **LLMs**, **MLOps**, **Databases**, **Generative AI**
-- 🏢 Founder at **Inflynx Technologies Pvt Ltd**
+- 🔭 I’m currently building **ChainVerdict** – A LegalTech revolution for courts, citizens, & lawyers.
+- 🧠 Founder @ **Inflynx Technologies Pvt Ltd**
+- 🌱 Exploring AI integrations with real-world civic & legal infrastructures
+- ⚡ Fun fact: I turn wild AI project ideas into reality (even with Suno, Stability, Replicate)
 
 ---
 
-### 📫 Connect With Me:
+### 🛠️ Tech Stack
+
 <p align="left">
-  <a href="https://linkedin.com/in/ravi-shankar-3bab62247" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:rs1806105@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nextjs,react,nodejs,tailwind,postgres,mongodb,firebase,aws,vercel,git,github,vscode,figma&perline=8" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,py,java,rust,go,solidity,mysql,postgres,mongodb,aws,gcp,docker,kubernetes,tailwind,figma" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+### 📈 GitHub Stats (Dynamic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi62026&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi6202&show_icons=true&theme=tokyonight" alt="ravi6202 stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi6202&theme=tokyonight" alt="ravi6202 streak"/>
 </p>
+
+---
+
+### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi62026&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi62026&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravi6202&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-### 🚀 Current Focus
-- 🌐 Expanding **ChainVerdict** to private legal sector
-- 🎧 Building **AI Music Generator** using Replicate + Stability
-- 📱 Leading dev of **Sakhi AI** – Instagram-based hormonal + emotional assistant for women
+### 🚀 Top Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [ChainVerdict](https://github.com/ravi6202/ChainVerdict) | React, AI, Node, Firebase | Full LegalTech suite with AI dashboard |
+| [Sakhi AI](https://github.com/ravi6202/SakhiAI) | IG Bot, NLP | Instagram AI companion for women |
+| [AI Music Generator](https://github.com/ravi6202/AIMusicGen) | Replicate, Stability | Generates complete songs using AI |
+| [Odisha CMO Portal](https://github.com/ravi6202/CMO-Grievance) | Govt-tech | Civic grievance portal with analytics & RPA |
 
 ---
 
-### 🏆 Highlighted Projects
-- ⚖️ [ChainVerdict.in](https://chainverdict.in) — AI-powered Legal Ecosystem
-- 💡 Sakhi AI — Personalized Insta-based wellness assistant
-- 🧠 BNS Analyzer | Legal LLMs | Virtual Courtroom | e-KYC Integration
+### 📰 Latest Blog Posts (Optional)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Auto-updates using: [dev.to RSS feed](https://github.com/gautamkrishnar/blog-post-workflow)
 
 ---
+
+### 🎧 Now Playing (Optional: Spotify)
+
+[![Spotify](https://novatorem-ravi6202.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
+
+---
+
+### 📫 Let’s Connect
+
+- LinkedIn: [ravi-shankar-3bab62247](https://www.linkedin.com/in/ravi-shankar-3bab62247)
+- GitHub: [@ravi6202](https://github.com/ravi6202)
+- Mail: rs1806105@gmail.com
+
+---
+
+**⚡ Powered by Code. Backed by Vision. Always Shipping.**
+

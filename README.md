@@ -1,106 +1,502 @@
-# Hi there! 👋 I'm [Your Name]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated GitHub Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-## 🚀 About Me
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 🤔 I'm looking for help with **[Something you need help with]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your email or preferred contact]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[Something interesting about you]**
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(-45deg, #1a1a2e, #16213e, #0f3460, #533483);
+            background-size: 400% 400%;
+            animation: gradientShift 15s ease infinite;
+            color: white;
+            overflow-x: hidden;
+            min-height: 100vh;
+        }
 
-## 🛠️ Tech Stack
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+        .star {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+        }
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+        @keyframes twinkle {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+        .header {
+            text-align: center;
+            padding: 60px 0;
+            position: relative;
+        }
 
-## 📊 GitHub Stats
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid #00d4ff;
+            margin: 0 auto 30px;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+            animation: rotate 8s linear infinite, pulse 2s ease-in-out infinite alternate;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+        }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+        @keyframes pulse {
+            from { box-shadow: 0 0 20px #00d4ff; }
+            to { box-shadow: 0 0 40px #00d4ff, 0 0 60px #00d4ff; }
+        }
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical" alt="GitHub Streak" />
-</div>
+        .name {
+            font-size: 3.5rem;
+            font-weight: bold;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57);
+            background-size: 300% 300%;
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: textGradient 4s ease infinite;
+            margin-bottom: 20px;
+        }
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</div>
+        @keyframes textGradient {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
 
-## 🔥 Featured Projects
+        .tagline {
+            font-size: 1.5rem;
+            opacity: 0.9;
+            animation: fadeInUp 2s ease;
+        }
 
-### [Project Name 1](https://github.com/[YOUR_USERNAME]/[REPO_NAME])
-Brief description of what this project does and the technologies used.
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 0.9;
+                transform: translateY(0);
+            }
+        }
 
-### [Project Name 2](https://github.com/[YOUR_USERNAME]/[REPO_NAME])
-Brief description of what this project does and the technologies used.
+        .section {
+            margin: 60px 0;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            animation: slideInLeft 1s ease;
+        }
 
-### [Project Name 3](https://github.com/[YOUR_USERNAME]/[REPO_NAME])
-Brief description of what this project does and the technologies used.
+        .section:nth-child(even) {
+            animation: slideInRight 1s ease;
+        }
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated with GitHub Actions if you have a blog -->
-- [Blog Post Title 1](https://your-blog.com/post1)
-- [Blog Post Title 2](https://your-blog.com/post2)
-- [Blog Post Title 3](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
 
-## 🤝 Connect with Me
+        @keyframes slideInRight {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
 
-<div align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[YOUR_TWITTER]">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://[YOUR_WEBSITE]">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-</div>
+        .section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            text-align: center;
+            color: #00d4ff;
+            text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+        }
 
----
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+        .tech-item {
+            background: linear-gradient(45deg, rgba(255, 107, 107, 0.3), rgba(78, 205, 196, 0.3));
+            padding: 20px;
+            border-radius: 15px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+            animation: bounce 2s ease infinite;
+            animation-delay: calc(var(--i) * 0.1s);
+        }
 
-<div align="center">
-  <i>Happy coding! 🚀</i>
-</div>
+        .tech-item:hover {
+            transform: translateY(-10px) scale(1.05);
+            box-shadow: 0 20px 40px rgba(0, 212, 255, 0.3);
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
+
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            padding: 30px;
+            border-radius: 20px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+            animation: float 3s ease-in-out infinite;
+            animation-delay: calc(var(--i) * 0.5s);
+        }
+
+        .stat-card:hover {
+            transform: translateY(-15px) rotateY(10deg);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .stat-number {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #00d4ff;
+            margin-bottom: 10px;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .project-card {
+            background: linear-gradient(135deg, rgba(255, 107, 107, 0.2), rgba(78, 205, 196, 0.2));
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transform: rotate(45deg);
+            animation: shimmer 3s linear infinite;
+        }
+
+        @keyframes shimmer {
+            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px) rotateX(5deg);
+            box-shadow: 0 30px 60px rgba(0, 212, 255, 0.2);
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .contact-link {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        .contact-link:hover {
+            transform: translateY(-5px) scale(1.1);
+            box-shadow: 0 10px 30px rgba(255, 107, 107, 0.5);
+        }
+
+        @keyframes glow {
+            from { box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); }
+            to { box-shadow: 0 0 30px rgba(78, 205, 196, 0.5); }
+        }
+
+        .typing-animation {
+            border-right: 3px solid #00d4ff;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0%, 50% { border-color: transparent; }
+            51%, 100% { border-color: #00d4ff; }
+        }
+
+        @media (max-width: 768px) {
+            .name { font-size: 2.5rem; }
+            .tagline { font-size: 1.2rem; }
+            .section h2 { font-size: 2rem; }
+            .section { padding: 20px; margin: 30px 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="stars"></div>
+    
+    <div class="container">
+        <div class="header">
+            <div class="profile-pic">👨‍💻</div>
+            <h1 class="name">YOUR NAME</h1>
+            <p class="tagline typing-animation">Full Stack Developer & Tech Enthusiast</p>
+        </div>
+
+        <div class="section">
+            <h2>🚀 About Me</h2>
+            <p style="font-size: 1.2rem; line-height: 1.8; text-align: center;">
+                Passionate developer with a love for creating amazing digital experiences. 
+                Currently building the future, one line of code at a time. Always learning, 
+                always growing, always coding! ✨
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>🛠️ Tech Arsenal</h2>
+            <div class="tech-grid">
+                <div class="tech-item" style="--i: 0;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">⚛️</div>
+                    <div>React</div>
+                </div>
+                <div class="tech-item" style="--i: 1;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">📱</div>
+                    <div>React Native</div>
+                </div>
+                <div class="tech-item" style="--i: 2;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">🟢</div>
+                    <div>Node.js</div>
+                </div>
+                <div class="tech-item" style="--i: 3;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">🐍</div>
+                    <div>Python</div>
+                </div>
+                <div class="tech-item" style="--i: 4;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">🗄️</div>
+                    <div>MongoDB</div>
+                </div>
+                <div class="tech-item" style="--i: 5;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">☁️</div>
+                    <div>AWS</div>
+                </div>
+                <div class="tech-item" style="--i: 6;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">🔥</div>
+                    <div>Firebase</div>
+                </div>
+                <div class="tech-item" style="--i: 7;">
+                    <div style="font-size: 2rem; margin-bottom: 10px;">📊</div>
+                    <div>GraphQL</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>📊 GitHub Stats</h2>
+            <div class="stats-container">
+                <div class="stat-card" style="--i: 0;">
+                    <div class="stat-number">100+</div>
+                    <div>Repositories</div>
+                </div>
+                <div class="stat-card" style="--i: 1;">
+                    <div class="stat-number">500+</div>
+                    <div>Contributions</div>
+                </div>
+                <div class="stat-card" style="--i: 2;">
+                    <div class="stat-number">50+</div>
+                    <div>Stars Earned</div>
+                </div>
+                <div class="stat-card" style="--i: 3;">
+                    <div class="stat-number">10+</div>
+                    <div>Languages</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🔥 Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3 style="color: #00d4ff; margin-bottom: 15px;">🚀 Awesome Web App</h3>
+                    <p>A full-stack application built with React and Node.js. Features real-time chat, user authentication, and responsive design.</p>
+                </div>
+                <div class="project-card">
+                    <h3 style="color: #00d4ff; margin-bottom: 15px;">📱 Mobile App</h3>
+                    <p>Cross-platform mobile application using React Native. Includes offline support, push notifications, and sleek UI.</p>
+                </div>
+                <div class="project-card">
+                    <h3 style="color: #00d4ff; margin-bottom: 15px;">🤖 AI Assistant</h3>
+                    <p>Machine learning project that helps automate daily tasks. Built with Python and TensorFlow for intelligent automation.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🤝 Let's Connect</h2>
+            <div class="contact-links">
+                <a href="mailto:your.email@example.com" class="contact-link">📧 Email</a>
+                <a href="https://linkedin.com/in/yourprofile" class="contact-link">💼 LinkedIn</a>
+                <a href="https://twitter.com/yourhandle" class="contact-link">🐦 Twitter</a>
+                <a href="https://yourwebsite.com" class="contact-link">🌐 Website</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Create animated stars
+        function createStars() {
+            const starsContainer = document.querySelector('.stars');
+            const numberOfStars = 100;
+
+            for (let i = 0; i < numberOfStars; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 100 + '%';
+                star.style.animationDelay = Math.random() * 3 + 's';
+                star.style.animationDuration = (Math.random() * 3 + 2) + 's';
+                starsContainer.appendChild(star);
+            }
+        }
+
+        // Typing animation for tagline
+        function typeWriter(element, text, speed = 100) {
+            let i = 0;
+            element.innerHTML = '';
+            function typing() {
+                if (i < text.length) {
+                    element.innerHTML += text.charAt(i);
+                    i++;
+                    setTimeout(typing, speed);
+                }
+            }
+            typing();
+        }
+
+        // Initialize animations
+        document.addEventListener('DOMContentLoaded', function() {
+            createStars();
+            
+            // Typing animation for tagline
+            setTimeout(() => {
+                const tagline = document.querySelector('.tagline');
+                typeWriter(tagline, 'Full Stack Developer & Tech Enthusiast');
+            }, 2000);
+
+            // Intersection Observer for scroll animations
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.animation = entry.target.classList.contains('section') 
+                            ? 'slideInLeft 1s ease' 
+                            : 'fadeInUp 1s ease';
+                    }
+                });
+            }, observerOptions);
+
+            // Observe all sections
+            document.querySelectorAll('.section').forEach(section => {
+                observer.observe(section);
+            });
+        });
+
+        // Mouse movement parallax effect
+        document.addEventListener('mousemove', (e) => {
+            const stars = document.querySelectorAll('.star');
+            const x = e.clientX / window.innerWidth;
+            const y = e.clientY / window.innerHeight;
+
+            stars.forEach((star, index) => {
+                const speed = (index % 3 + 1) * 0.5;
+                star.style.transform = `translate(${x * speed}px, ${y * speed}px)`;
+            });
+        });
+    </script>
+</body>
+</html>

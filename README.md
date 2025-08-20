@@ -1,502 +1,224 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Ravi Shankar
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(-45deg, #1a1a2e, #16213e, #0f3460, #533483);
-            background-size: 400% 400%;
-            animation: gradientShift 15s ease infinite;
-            color: white;
-            overflow-x: hidden;
-            min-height: 100vh;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Tech+Founder+%7C+Full-stack+Developer;AI+%2B+LegalTech+Builder;Building+Sakhi+AI+%26+Innovations;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+</div>
 
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
+</div>
 
-        .stars {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-        }
+---
 
-        .star {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: white;
-            border-radius: 50%;
-            animation: twinkle 3s infinite;
-        }
+## 🚀 About Me
 
-        @keyframes twinkle {
-            0%, 100% { opacity: 0; }
-            50% { opacity: 1; }
-        }
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            position: relative;
-            z-index: 1;
-        }
+- 🏢 **Tech Founder** building innovative solutions
+- 💻 **Full-stack Developer** with passion for clean code
+- 🤖 **AI Enthusiast** specializing in LegalTech
+- 🔥 Currently building **Sakhi AI** 
+- 🌱 Learning advanced **Machine Learning** & **Web3**
+- 👯 Looking to collaborate on **AI/ML projects**
+- 💬 Ask me about **React, Node.js, Python, AI**
+- 📫 How to reach me: **ravi@example.com**
+- ⚡ Fun fact: **Code + Coffee = Magic** ☕
 
-        .header {
-            text-align: center;
-            padding: 60px 0;
-            position: relative;
-        }
+<br clear="both"/>
 
-        .profile-pic {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 4px solid #00d4ff;
-            margin: 0 auto 30px;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
-            animation: rotate 8s linear infinite, pulse 2s ease-in-out infinite alternate;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 48px;
-        }
+---
 
-        @keyframes rotate {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+## 🛠️ Tech Stack & Tools
 
-        @keyframes pulse {
-            from { box-shadow: 0 0 20px #00d4ff; }
-            to { box-shadow: 0 0 40px #00d4ff, 0 0 60px #00d4ff; }
-        }
+<div align="center">
 
-        .name {
-            font-size: 3.5rem;
-            font-weight: bold;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57);
-            background-size: 300% 300%;
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: textGradient 4s ease infinite;
-            margin-bottom: 20px;
-        }
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-        @keyframes textGradient {
-            0%, 100% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-        }
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-        .tagline {
-            font-size: 1.5rem;
-            opacity: 0.9;
-            animation: fadeInUp 2s ease;
-        }
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 0.9;
-                transform: translateY(0);
-            }
-        }
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-        .section {
-            margin: 60px 0;
-            padding: 40px;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            animation: slideInLeft 1s ease;
-        }
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-        .section:nth-child(even) {
-            animation: slideInRight 1s ease;
-        }
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-        @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+</div>
 
-        @keyframes slideInRight {
-            from {
-                opacity: 0;
-                transform: translateX(50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+---
 
-        .section h2 {
-            font-size: 2.5rem;
-            margin-bottom: 30px;
-            text-align: center;
-            color: #00d4ff;
-            text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
-        }
+## 📊 GitHub Analytics
 
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-        .tech-item {
-            background: linear-gradient(45deg, rgba(255, 107, 107, 0.3), rgba(78, 205, 196, 0.3));
-            padding: 20px;
-            border-radius: 15px;
-            text-align: center;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-            animation: bounce 2s ease infinite;
-            animation-delay: calc(var(--i) * 0.1s);
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=radical" alt="GitHub Streak" />
+</div>
 
-        .tech-item:hover {
-            transform: translateY(-10px) scale(1.05);
-            box-shadow: 0 20px 40px rgba(0, 212, 255, 0.3);
-        }
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=radical&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
+</div>
 
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-5px); }
-        }
+---
 
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
-            margin-top: 30px;
-        }
+## 🔥 Featured Projects
 
-        .stat-card {
-            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
-            padding: 30px;
-            border-radius: 20px;
-            text-align: center;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-            animation: float 3s ease-in-out infinite;
-            animation-delay: calc(var(--i) * 0.5s);
-        }
+<div align="center">
 
-        .stat-card:hover {
-            transform: translateY(-15px) rotateY(10deg);
-            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
-        }
+### 🤖 Sakhi AI
+**AI-Powered LegalTech Assistant**
+- Built with Python, FastAPI, and OpenAI GPT
+- Helps lawyers with document analysis and legal research
+- Features real-time chat and document processing
+- [🔗 View Project](https://github.com/Ravi62026/sakhi-ai)
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
+### 📱 React Native E-Commerce
+**Full-Stack Mobile Shopping App**
+- React Native + Node.js + MongoDB
+- Features: Payment integration, Push notifications
+- Clean UI/UX with smooth animations
+- [🔗 View Project](https://github.com/Ravi62026/rn-ecommerce)
 
-        .stat-number {
-            font-size: 3rem;
-            font-weight: bold;
-            color: #00d4ff;
-            margin-bottom: 10px;
-        }
+### 🌐 Portfolio Website
+**Personal Portfolio with Modern Design**
+- Next.js + TailwindCSS + Framer Motion
+- Responsive design with dark/light themes
+- Contact form with EmailJS integration
+- [🔗 View Project](https://github.com/Ravi62026/portfolio)
 
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-top: 30px;
-        }
+</div>
 
-        .project-card {
-            background: linear-gradient(135deg, rgba(255, 107, 107, 0.2), rgba(78, 205, 196, 0.2));
-            padding: 30px;
-            border-radius: 20px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+---
 
-        .project-card::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-            transform: rotate(45deg);
-            animation: shimmer 3s linear infinite;
-        }
+## 📈 Contribution Graph
 
-        @keyframes shimmer {
-            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-        }
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi62026&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
-        .project-card:hover {
-            transform: translateY(-10px) rotateX(5deg);
-            box-shadow: 0 30px 60px rgba(0, 212, 255, 0.2);
-        }
+---
 
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            margin-top: 30px;
-            flex-wrap: wrap;
-        }
+## 🎯 Current Focus
 
-        .contact-link {
-            display: inline-block;
-            padding: 15px 30px;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
-            color: white;
-            text-decoration: none;
-            border-radius: 50px;
-            transition: all 0.3s ease;
-            animation: glow 2s ease-in-out infinite alternate;
-        }
+<img align="right" alt="AI Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
-        .contact-link:hover {
-            transform: translateY(-5px) scale(1.1);
-            box-shadow: 0 10px 30px rgba(255, 107, 107, 0.5);
-        }
+- 🔭 Building **Sakhi AI** - Revolutionary LegalTech platform
+- 🌱 Exploring **Generative AI** and **LangChain**
+- 💡 Working on **AI automation** for legal processes
+- 🤝 Open to collaborating on **AI/ML** projects
+- 📚 Learning **Web3** and **Blockchain** technologies
 
-        @keyframes glow {
-            from { box-shadow: 0 0 20px rgba(255, 107, 107, 0.5); }
-            to { box-shadow: 0 0 30px rgba(78, 205, 196, 0.5); }
-        }
+<br clear="both"/>
 
-        .typing-animation {
-            border-right: 3px solid #00d4ff;
-            animation: blink 1s infinite;
-        }
+---
 
-        @keyframes blink {
-            0%, 50% { border-color: transparent; }
-            51%, 100% { border-color: #00d4ff; }
-        }
+## 🏆 Achievements & Stats
 
-        @media (max-width: 768px) {
-            .name { font-size: 2.5rem; }
-            .tagline { font-size: 1.2rem; }
-            .section h2 { font-size: 2rem; }
-            .section { padding: 20px; margin: 30px 0; }
-        }
-    </style>
-</head>
-<body>
-    <div class="stars"></div>
-    
-    <div class="container">
-        <div class="header">
-            <div class="profile-pic">👨‍💻</div>
-            <h1 class="name">YOUR NAME</h1>
-            <p class="tagline typing-animation">Full Stack Developer & Tech Enthusiast</p>
-        </div>
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi62026&theme=radical)
 
-        <div class="section">
-            <h2>🚀 About Me</h2>
-            <p style="font-size: 1.2rem; line-height: 1.8; text-align: center;">
-                Passionate developer with a love for creating amazing digital experiences. 
-                Currently building the future, one line of code at a time. Always learning, 
-                always growing, always coding! ✨
-            </p>
-        </div>
+</div>
 
-        <div class="section">
-            <h2>🛠️ Tech Arsenal</h2>
-            <div class="tech-grid">
-                <div class="tech-item" style="--i: 0;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">⚛️</div>
-                    <div>React</div>
-                </div>
-                <div class="tech-item" style="--i: 1;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">📱</div>
-                    <div>React Native</div>
-                </div>
-                <div class="tech-item" style="--i: 2;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">🟢</div>
-                    <div>Node.js</div>
-                </div>
-                <div class="tech-item" style="--i: 3;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">🐍</div>
-                    <div>Python</div>
-                </div>
-                <div class="tech-item" style="--i: 4;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">🗄️</div>
-                    <div>MongoDB</div>
-                </div>
-                <div class="tech-item" style="--i: 5;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">☁️</div>
-                    <div>AWS</div>
-                </div>
-                <div class="tech-item" style="--i: 6;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">🔥</div>
-                    <div>Firebase</div>
-                </div>
-                <div class="tech-item" style="--i: 7;">
-                    <div style="font-size: 2rem; margin-bottom: 10px;">📊</div>
-                    <div>GraphQL</div>
-                </div>
-            </div>
-        </div>
+<div align="center">
+  
+| 🎯 Goals | 📊 Stats |
+|----------|----------|
+| **78** Repositories | **500+** Contributions |
+| **1** Star Earned | **10+** Languages |
+| **AI/ML** Focus | **Full-Stack** Expertise |
 
-        <div class="section">
-            <h2>📊 GitHub Stats</h2>
-            <div class="stats-container">
-                <div class="stat-card" style="--i: 0;">
-                    <div class="stat-number">100+</div>
-                    <div>Repositories</div>
-                </div>
-                <div class="stat-card" style="--i: 1;">
-                    <div class="stat-number">500+</div>
-                    <div>Contributions</div>
-                </div>
-                <div class="stat-card" style="--i: 2;">
-                    <div class="stat-number">50+</div>
-                    <div>Stars Earned</div>
-                </div>
-                <div class="stat-card" style="--i: 3;">
-                    <div class="stat-number">10+</div>
-                    <div>Languages</div>
-                </div>
-            </div>
-        </div>
+</div>
 
-        <div class="section">
-            <h2>🔥 Featured Projects</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <h3 style="color: #00d4ff; margin-bottom: 15px;">🚀 Awesome Web App</h3>
-                    <p>A full-stack application built with React and Node.js. Features real-time chat, user authentication, and responsive design.</p>
-                </div>
-                <div class="project-card">
-                    <h3 style="color: #00d4ff; margin-bottom: 15px;">📱 Mobile App</h3>
-                    <p>Cross-platform mobile application using React Native. Includes offline support, push notifications, and sleek UI.</p>
-                </div>
-                <div class="project-card">
-                    <h3 style="color: #00d4ff; margin-bottom: 15px;">🤖 AI Assistant</h3>
-                    <p>Machine learning project that helps automate daily tasks. Built with Python and TensorFlow for intelligent automation.</p>
-                </div>
-            </div>
-        </div>
+---
 
-        <div class="section">
-            <h2>🤝 Let's Connect</h2>
-            <div class="contact-links">
-                <a href="mailto:your.email@example.com" class="contact-link">📧 Email</a>
-                <a href="https://linkedin.com/in/yourprofile" class="contact-link">💼 LinkedIn</a>
-                <a href="https://twitter.com/yourhandle" class="contact-link">🐦 Twitter</a>
-                <a href="https://yourwebsite.com" class="contact-link">🌐 Website</a>
-            </div>
-        </div>
-    </div>
+## 💻 Weekly Coding Stats
 
-    <script>
-        // Create animated stars
-        function createStars() {
-            const starsContainer = document.querySelector('.stars');
-            const numberOfStars = 100;
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   45.2%
+Python       8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.4%
+TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.0%
+CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.5%
+HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.9%
+```
+<!--END_SECTION:waka-->
 
-            for (let i = 0; i < numberOfStars; i++) {
-                const star = document.createElement('div');
-                star.className = 'star';
-                star.style.left = Math.random() * 100 + '%';
-                star.style.top = Math.random() * 100 + '%';
-                star.style.animationDelay = Math.random() * 3 + 's';
-                star.style.animationDuration = (Math.random() * 3 + 2) + 's';
-                starsContainer.appendChild(star);
-            }
-        }
+---
 
-        // Typing animation for tagline
-        function typeWriter(element, text, speed = 100) {
-            let i = 0;
-            element.innerHTML = '';
-            function typing() {
-                if (i < text.length) {
-                    element.innerHTML += text.charAt(i);
-                    i++;
-                    setTimeout(typing, speed);
-                }
-            }
-            typing();
-        }
+## 🎨 Holopin Badges
 
-        // Initialize animations
-        document.addEventListener('DOMContentLoaded', function() {
-            createStars();
-            
-            // Typing animation for tagline
-            setTimeout(() => {
-                const tagline = document.querySelector('.tagline');
-                typeWriter(tagline, 'Full Stack Developer & Tech Enthusiast');
-            }, 2000);
+<div align="center">
+  <img src="https://holopin.me/ravi62026" alt="Holopin Badge Board" />
+</div>
 
-            // Intersection Observer for scroll animations
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
+---
 
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.animation = entry.target.classList.contains('section') 
-                            ? 'slideInLeft 1s ease' 
-                            : 'fadeInUp 1s ease';
-                    }
-                });
-            }, observerOptions);
+## 🤝 Let's Connect!
 
-            // Observe all sections
-            document.querySelectorAll('.section').forEach(section => {
-                observer.observe(section);
-            });
-        });
+<div align="center">
 
-        // Mouse movement parallax effect
-        document.addEventListener('mousemove', (e) => {
-            const stars = document.querySelectorAll('.star');
-            const x = e.clientX / window.innerWidth;
-            const y = e.clientY / window.innerHeight;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-shankar-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravi_dev_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ravishankar.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravi.codes)
 
-            stars.forEach((star, index) => {
-                const speed = (index % 3 + 1) * 0.5;
-                star.style.transform = `translate(${x * speed}px, ${y * speed}px)`;
-            });
-        });
-    </script>
-</body>
-</html>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+### 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  
+**Thanks for visiting my profile!** ⭐️
+  
+*From [Ravi](https://github.com/Ravi62026) with ❤️*
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ravi62026&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+</div>

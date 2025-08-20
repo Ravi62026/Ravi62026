@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Ravi Shankar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Tech+Founder+%7C+Full-stack+Developer;AI+%2B+LegalTech+Builder;Building+Sakhi+AI+%26+Innovations;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=🚀+Tech+Founder+%7C+Full-stack+Developer;🤖+AI+%2B+LegalTech+Innovator;✨+Building+Sakhi+AI+%26+Beyond;📚+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,25 +10,25 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🏢 **Tech Founder** building innovative solutions
-- 💻 **Full-stack Developer** with passion for clean code
-- 🤖 **AI Enthusiast** specializing in LegalTech
-- 🔥 Currently building **Sakhi AI** 
-- 🌱 Learning advanced **Machine Learning** & **Web3**
-- 👯 Looking to collaborate on **AI/ML projects**
-- 💬 Ask me about **React, Node.js, Python, AI**
-- 📫 How to reach me: **ravi@example.com**
-- ⚡ Fun fact: **Code + Coffee = Magic** ☕
+- 💻 **Full-stack Developer** passionate about clean & scalable code
+- 🤖 **AI Enthusiast** specializing in LegalTech & Generative AI
+- 🔥 Currently building **Sakhi AI** – a LegalTech platform
+- 🌱 Exploring **Advanced ML**, **LangChain**, & **Web3**
+- 🤝 Open to collaborations on **AI/ML projects**
+- 💬 Ask me about **React, Node.js, Python, AI/ML**
+- 📫 Reach me: **ravi@example.com**
+- ⚡ Fun fact: *Code + Coffee ☕ = Magic ✨*
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -73,16 +73,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=radical&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -93,23 +93,20 @@
 
 ### 🤖 Sakhi AI
 **AI-Powered LegalTech Assistant**
-- Built with Python, FastAPI, and OpenAI GPT
-- Helps lawyers with document analysis and legal research
-- Features real-time chat and document processing
+- Python + FastAPI + OpenAI GPT
+- Real-time chat, document analysis, & research automation
 - [🔗 View Project](https://github.com/Ravi62026/sakhi-ai)
 
 ### 📱 React Native E-Commerce
 **Full-Stack Mobile Shopping App**
 - React Native + Node.js + MongoDB
-- Features: Payment integration, Push notifications
-- Clean UI/UX with smooth animations
+- Features: Payment gateway, Push notifications
 - [🔗 View Project](https://github.com/Ravi62026/rn-ecommerce)
 
 ### 🌐 Portfolio Website
 **Personal Portfolio with Modern Design**
 - Next.js + TailwindCSS + Framer Motion
-- Responsive design with dark/light themes
-- Contact form with EmailJS integration
+- Responsive UI + Dark/Light mode
 - [🔗 View Project](https://github.com/Ravi62026/portfolio)
 
 </div>
@@ -128,21 +125,21 @@
 
 <img align="right" alt="AI Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
-- 🔭 Building **Sakhi AI** - Revolutionary LegalTech platform
-- 🌱 Exploring **Generative AI** and **LangChain**
-- 💡 Working on **AI automation** for legal processes
-- 🤝 Open to collaborating on **AI/ML** projects
-- 📚 Learning **Web3** and **Blockchain** technologies
+- 🔭 Building **Sakhi AI** – next-gen LegalTech platform
+- 🌱 Exploring **Generative AI** & **LangChain**
+- 💡 Automating **legal workflows** with AI
+- 🤝 Open for **AI/ML collaborations**
+- 📚 Learning **Blockchain & Web3**
 
 <br clear="both"/>
 
 ---
 
-## 🏆 Achievements & Stats
+## 🏆 Achievements
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi62026&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi62026&theme=tokyonight)
 
 </div>
 
@@ -150,25 +147,11 @@
   
 | 🎯 Goals | 📊 Stats |
 |----------|----------|
-| **78** Repositories | **500+** Contributions |
-| **1** Star Earned | **10+** Languages |
+| **80+** Repositories | **500+** Contributions |
 | **AI/ML** Focus | **Full-Stack** Expertise |
+| **LegalTech Builder** | **10+ Languages** |
 
 </div>
-
----
-
-## 💻 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   45.2%
-Python       8 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.4%
-TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.0%
-CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    6.5%
-HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    0.9%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -200,14 +183,14 @@ HTML         15 mins         ░░░░░░░░░░░░░░░░░
 
 ### 💭 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
   
-**Thanks for visiting my profile!** ⭐️
+⭐️ *Thanks for visiting my profile!* ⭐️
   
 *From [Ravi](https://github.com/Ravi62026) with ❤️*
 

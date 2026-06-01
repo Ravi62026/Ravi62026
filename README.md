@@ -141,7 +141,7 @@ Energy + GovTech Infrastructure
 | **2023** | **1,247** | Foundation Engineering |
 | **2024** | **2,983** | Full Stack Systems |
 | **2025** | **4,126** | AI Product Architecture |
-| **2026** | **6,742** | Infrastructure Systems |
+| **2026** | **3,742** | Infrastructure Systems |
 
 </div>
 

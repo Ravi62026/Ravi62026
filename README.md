@@ -1,12 +1,39 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Ravi Shankar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=940&lines=🚀+Tech+Founder+%7C+Full-stack+Developer;🤖+AI+%2B+LegalTech+Innovator;✨+Building+Sakhi+AI+%26+Beyond;📚+Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=00F0FF&center=true&vCenter=true&width=1100&lines=Founder+%7C+Systems+Engineer+%7C+AI+Infrastructure+Builder;Building+Inflynx+Technologies;XALORA+%7C+VEILCUE+%7C+FLYNT;Execution+Over+Hype" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
 </div>
+
+---
+
+## 🚀 Building Inflynx Technologies
+
+<div align="center">
+
+**Infrastructure-first technology ecosystem building serious systems across AI, DevOps, Legal Intelligence & GovTech**
+
+</div>
+
+### Core Platforms
+
+⚡ **FLYNT**  
+Deployment & DevOps Infrastructure Platform
+
+🧠 **XALORA**  
+Engineering Practice + Hiring Operating System
+
+🎯 **VEILCUE**  
+Realtime Interview Intelligence System
+
+⚖️ **CHAINVERDICT**  
+Legal Intelligence Platform
+
+🔋 **VIDYUTCHAIN**  
+Energy + GovTech Infrastructure
 
 ---
 
@@ -14,15 +41,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🏢 **Tech Founder** building innovative solutions
-- 💻 **Full-stack Developer** passionate about clean & scalable code
-- 🤖 **AI Enthusiast** specializing in LegalTech & Generative AI
-- 🔥 Currently building **Sakhi AI** – a LegalTech platform
-- 🌱 Exploring **Advanced ML**, **LangChain**, & **Web3**
-- 🤝 Open to collaborations on **AI/ML projects**
-- 💬 Ask me about **React, Node.js, Python, AI/ML**
-- 📫 Reach me: **ravi@example.com**
-- ⚡ Fun fact: *Code + Coffee ☕ = Magic ✨*
+- 🏢 Founder @ **Inflynx Technologies**
+- 🎓 4th Year Integrated **M.Tech in Artificial Intelligence**
+- 📊 **9.1 CGPA**
+- ⚙️ Building infrastructure-grade systems
+- ☁️ Exploring **Kubernetes, Cloud Native & Distributed Systems**
+- 🔥 Deep into **Realtime Systems, AI Architecture & System Design**
+- 🚀 Building scalable products from scratch
+- 💬 Ask me about **Backend, AI Systems, Infra Engineering**
 
 <br clear="both"/>
 
@@ -38,33 +64,21 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
+### Backend & Systems
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 </div>
 
@@ -74,42 +88,31 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Systems
 
-<div align="center">
+### 🧠 XALORA
+Engineering Learning + Hiring Operating System
 
-### 🤖 Sakhi AI
-**AI-Powered LegalTech Assistant**
-- Python + FastAPI + OpenAI GPT
-- Real-time chat, document analysis, & research automation
-- [🔗 View Project](https://github.com/Ravi62026/sakhi-ai)
+### 🎯 VEILCUE
+Realtime AI Interview Copilot
 
-### 📱 React Native E-Commerce
-**Full-Stack Mobile Shopping App**
-- React Native + Node.js + MongoDB
-- Features: Payment gateway, Push notifications
-- [🔗 View Project](https://github.com/Ravi62026/rn-ecommerce)
+### ⚡ FLYNT
+DevOps Deployment Infrastructure
 
-### 🌐 Portfolio Website
-**Personal Portfolio with Modern Design**
-- Next.js + TailwindCSS + Framer Motion
-- Responsive UI + Dark/Light mode
-- [🔗 View Project](https://github.com/Ravi62026/portfolio)
+### ⚖️ CHAINVERDICT
+AI-powered Legal Intelligence
 
-</div>
+### 🔋 VIDYUTCHAIN
+Energy + Governance Infrastructure
 
 ---
 
@@ -123,78 +126,48 @@
 
 ## 🎯 Current Focus
 
-<img align="right" alt="AI Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
-- 🔭 Building **Sakhi AI** – next-gen LegalTech platform
-- 🌱 Exploring **Generative AI** & **LangChain**
-- 💡 Automating **legal workflows** with AI
-- 🤝 Open for **AI/ML collaborations**
-- 📚 Learning **Blockchain & Web3**
+- Scaling **Inflynx ecosystem**
+- Mastering **Kubernetes**
+- Building production-grade AI systems
+- Distributed systems architecture
+- Realtime infrastructure engineering
 
 <br clear="both"/>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Founder Metrics
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi62026&theme=tokyonight)
 
-</div>
-
-<div align="center">
-  
-| 🎯 Goals | 📊 Stats |
-|----------|----------|
-| **80+** Repositories | **500+** Contributions |
-| **AI/ML** Focus | **Full-Stack** Expertise |
-| **LegalTech Builder** | **10+ Languages** |
+| Focus | Direction |
+|------|------|
+| Infrastructure Systems | Scaling |
+| AI Architecture | Production-grade |
+| Cloud Native | Advanced |
+| Product Building | Multi-platform |
 
 </div>
 
 ---
 
-## 🎨 Holopin Badges
-
-<div align="center">
-  <img src="https://holopin.me/ravi62026" alt="Holopin Badge Board" />
-</div>
-
----
-
-## 🤝 Let's Connect!
+## 🤝 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-shankar-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravi_dev_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ravishankar.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravi.codes)
+**Open to building serious systems, collaborations & engineering conversations**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-### 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
   
-⭐️ *Thanks for visiting my profile!* ⭐️
-  
-*From [Ravi](https://github.com/Ravi62026) with ❤️*
+⭐ **Building systems that matter**
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+*Execution > Hype*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ravi62026&color=brightgreen&style=flat-square&label=Profile+Views)
 
@@ -205,3 +178,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
+```

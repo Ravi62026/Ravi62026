@@ -115,14 +115,42 @@ Energy + GovTech Infrastructure
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravi62026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi62026&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
+
+---
+
+## 🚀 Engineering Journey
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi62026&theme=tokyonight"/>
+
+| 📅 Year | 📈 Contributions | 🚀 Focus |
+|--------|-----------------|---------|
+| **2023** | **1.2K+** | Foundation Building |
+| **2024** | **1.8K+** | Full-Stack Engineering |
+| **2025** | **2.4K+** | AI Systems & Product Building |
+| **2026** | **5K+ Target** | Infrastructure & Distributed Systems |
+
 </div>
 
+---
+
+<div align="center">
+
+### ⚡ Founder Metrics
+
+```yaml
+Total Contributions Since 2023: 5K+
+Repositories Built: 80+
+Core Platforms: 5
+Current Mission: Building Inflynx
+````
+
+</div>
 ---
 
 ## 🔥 Featured Systems

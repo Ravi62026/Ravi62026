@@ -1,4 +1,4 @@
-```md
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hey there! I'm Ravi Shankar
 
 <div align="center">

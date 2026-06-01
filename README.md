@@ -124,6 +124,44 @@ Energy + GovTech Infrastructure
 
 ---
 
+## ⚡ Engineering Progress
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=2023+%7C+1%2C247+Contributions;2024+%7C+2%2C983+Contributions;2025+%7C+4%2C126+Contributions;2026+%7C+6%2C742+Contributions;Total+%7C+15%2C098+Engineering+Commits" />
+
+</div>
+
+---
+
+<div align="center">
+
+| 🚀 Year | 📈 Contributions | 🎯 Focus |
+|--------|----------------|---------------------------|
+| **2023** | **1,247** | Foundation Engineering |
+| **2024** | **2,983** | Full Stack Systems |
+| **2025** | **4,126** | AI Product Architecture |
+| **2026** | **6,742** | Infrastructure Systems |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Founder Metrics
+
+<img src="https://img.shields.io/badge/Total_Contributions-15,098-00F0FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repositories-87-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platforms_Built-5-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Engineering_Hours-4,300+-orange?style=for-the-badge" />
+
+</div>
+```
+
+
+---
+
 ## ⚡ Contribution Timeline
 
 <div align="center">

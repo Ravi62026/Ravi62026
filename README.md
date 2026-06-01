@@ -126,6 +126,36 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</div>
+
+---
+
+## ⚡ Contribution Excellence
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravi62026&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi62026&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi62026&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravi62026&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+```
+
+
 ## 📈 Engineering Evolution
 
 <div align="center">

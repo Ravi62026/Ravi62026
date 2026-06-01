@@ -121,7 +121,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi62026&theme=tokyonight" />
 
 </div>
- ```
 
 <div align="center">
 
@@ -130,7 +129,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravi62026&theme=tokyonight&utcOffset=5.5" />
 
 </div>
-```
 
 
 ## 📈 Engineering Evolution

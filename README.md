@@ -114,12 +114,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=onedark&row=2&column=4&margin-w=15&margin-h=15"/> </div>
-
----
-
 ## ⚡ Contribution Excellence
 
 <div align="center">

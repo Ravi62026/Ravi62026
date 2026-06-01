@@ -1,4 +1,4 @@
-
+<img width="1125" height="278" alt="image" src="https://github.com/user-attachments/assets/b3e2bb8f-a941-4cf5-ab82-0f9f97b20e8a" />
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hey there! I'm Ravi Shankar
 
 <div align="center">
@@ -116,11 +116,7 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ravi62026&theme=onedark&row=2&column=4&margin-w=15&margin-h=15"/> </div>
 
 ---
 

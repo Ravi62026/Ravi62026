@@ -112,8 +112,6 @@
 
 </div>
 
----
-
 ## ⚡ Contribution Excellence
 
 <div align="center">

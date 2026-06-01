@@ -124,6 +124,52 @@ Energy + GovTech Infrastructure
 
 ---
 
+## ⚡ Contribution Timeline
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi62026&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 Engineering Evolution
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi62026&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🔥 Live Engineering Metrics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Started-2023-blueviolet?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/Current_Focus-Infrastructure_Systems-00F0FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Primary_Domain-AI_%2B_Distributed_Systems-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Building-Inflynx_Technologies-success?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Contribution Heatmap
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Ravi62026&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+```
+
+
 ## 🚀 Engineering Journey
 
 <div align="center">

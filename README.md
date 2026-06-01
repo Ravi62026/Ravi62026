@@ -1,4 +1,4 @@
-<img width="1125" height="278" alt="image" src="https://github.com/user-attachments/assets/b3e2bb8f-a941-4cf5-ab82-0f9f97b20e8a" />
+
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hey there! I'm Ravi Shankar
 
 <div align="center">
@@ -121,6 +121,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi62026&theme=tokyonight" />
 
 </div>
+
 
 <div align="center">
 

@@ -56,29 +56,57 @@ Energy + GovTech Infrastructure
 
 ## 🛠️ Tech Stack
 
+## ⚙️ Engineering Arsenal
+
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧠 Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Production_Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI_&_Systems-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DSA_&_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Backend & Systems
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚡ Backend & Systems Engineering
+![NodeJS](https://img.shields.io/badge/Node.js-Backend_Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-API_Architecture-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime_Systems-010101?style=for-the-badge)
 
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
+
+### ☁️ Cloud Native & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System_Level-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🤖 AI Systems & Intelligence
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-AI_Orchestration-121D33?style=for-the-badge)
+
+---
+
+### 🗄️ Data & Persistence
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_Systems-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Document_Store-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Caching_&_Queues-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🏗️ Current Deep Focus
+```yaml
+- Kubernetes & Distributed Systems
+- Realtime Infrastructure
+- AI Architecture
+- Cloud Native Engineering
+- Multi-product Systems Design
+````
 
 </div>
 

@@ -78,29 +78,6 @@
 
 ---
 
-## ⚡ Engineering Progress
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=2023+%7C+1247+Contributions;2024+%7C+2983+Contributions;2025+%7C+4126+Contributions;2026+%7C+3742+Contributions" />
-
-</div>
-
----
-
-<div align="center">
-
-| 🚀 Year | 📈 Contributions | 🎯 Focus |
-|--------|----------------|------------------------|
-| **2023** | **1247** | Foundation Engineering |
-| **2024** | **2983** | Full Stack Systems |
-| **2025** | **4126** | AI Product Architecture |
-| **2026** | **3742** | Infrastructure Systems |
-
-</div>
-
----
-
 ## 🧠 Founder Metrics
 
 <div align="center">
